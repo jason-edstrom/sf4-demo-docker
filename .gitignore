@@ -148,3 +148,4 @@ fabric.properties
 **/Entity/*~
 
 # Embedded web-server pid file
+/docker/data/db/
